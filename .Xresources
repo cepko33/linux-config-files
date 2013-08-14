@@ -28,7 +28,7 @@
 
 URxvt*.transparent: true
 URxvt*.shading:     60
-URxvt*.font:	    xft:Droid Sans Mono:pixelsize=12
+URxvt*.font:	    xft:Droid Sans Mono:size=10
 URxvt*.scrollBar: False
 
 xterm*faceName:		Droid Sans Mono
