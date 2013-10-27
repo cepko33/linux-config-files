@@ -1,0 +1,17 @@
+#! /bin/sh
+
+bspc desktop ^1 -n I
+bspc monitor -a II III IV V VI VII VIII IX X
+bspc monitor -p 20 0 0 0
+
+bspc rule -a Gimp -d ^8 --follow --floating
+bspc rule -a mplayer2 --floating
+bspc rule -a Kupfer.py --focus
+bspc rule -a Screenkey --unmanage
+
+bspc config border_width        2
+bspc config window_gap          20
+bspc config split_ratio         0.52
+bspc config borderless_monocle  true
+bspc config gapless_monocle     true
+
