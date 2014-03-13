@@ -1,0 +1,10 @@
+Bundle 'scrooloose/nerdtree'
+Bundle 'itchyny/lightline.vim'
+Bundle 'ragtag.vim'
+Bundle 'majutsushi/tagbar'
+Bundle 'greplace.vim'
+Bundle 'mileszs/ack.vim'
+Bundle 'nathanaelkane/vim-indent-guides'
+Bundle "gilligan/vim-lldb"
+Bundle "tpope/vim-surround"
+Bundle "Townk/vim-autoclose"

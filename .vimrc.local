@@ -1,0 +1,60 @@
+" Source the vimrc file after saving it
+if has("autocmd")
+  autocmd bufwritepost .vimrc source $MYVIMRC
+  autocmd bufwritepost .vimrc.local source $MYVIMRC
+  autocmd bufwritepost .vimrc.bundles source $MYVIMRC
+  autocmd bufwritepost .vimrc.bundles BundleInstall
+  autocmd bufwritepost .vimrc.bundles.local source $MYVIMRC
+  autocmd bufwritepost .vimrc.bundles.local BundleInstall
+endif
+
+" reSource
+nmap <leader>r :source $MYVIMRC<CR>
+
+" open .vimrc.local
+nmap <leader>v :tabedit $MYVIMRC.local<CR>
+nmap <leader>V :tabedit $MYVIMRC<CR>
+nmap <leader>c :tabedit $MYVIMRC.bundles.local<CR>
+nmap <leader>C :tabedit $MYVIMRC.bundles<CR>
+
+" focus NERDTree
+nmap <leader>n :NERDTreeToggle<CR>
+
+" toggle Tagbar
+nmap <leader>t :TagbarToggle<CR>
+
+" gitblame and tab navigation
+nmap <leader>b :Gblame<CR>
+nmap <leader>, gT
+nmap <leader>. gt
+
+" next/previous quickfix
+nmap <leader>j :cn<CR>
+nmap <leader>k :cp<CR>
+
+" Ack search for the word including its boundries
+map <leader>q :Ack "\b<cword>\b"<CR>
+nmap <leader>a :Ack "
+
+" Allow <C-I> for file navigation
+noremap <C-N> <C-A>
+
+" Step next in LLDB
+nmap <leader>l :Lstep<CR>
+nmap <leader>; :Lexpression 
+nmap <leader>L :Lbreakpoint<CR>
+
+
+nnoremap <Left> :Lcontinue<CR>
+nnoremap <Right> :Lstep<CR>
+nnoremap <Up> :Lup<CR>
+nnoremap <Down> :Ldown<CR>
+let g:ackprg = 'ag --nogroup --nocolor --column'
+
+set tabstop=4
+
+set mouse=a
+
+" whitespace
+set list
+set listchars=tab:\|\ 
