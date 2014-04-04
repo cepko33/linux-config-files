@@ -1,0 +1,15 @@
+"3.8.2 (created: 2014/02/13 23:52:43)
+
+highlight Hint font-family: Source Code Pro; font-size: 12px; fonnt-weight: light; text-transform: uppercase; color: white; background-color: red; border-color: ButtonShadow; border-width: 0px; border-style: solid; padding: 0px 1px 0px 1px; 
+nnoremap j j
+nnoremap k k
+nnoremap K gt
+nnoremap J gT
+set hintchars=hjklasdfgyuiopqwertnmzxcvb
+style! -name=statusbar chrome://* <<EOF
+#status-bar statusbarpanel { padding: 2px !important; }
+statusbarpanel > * { margin: 0 !important; padding: 0 !important; }
+EOF
+source! /Users/scepko/.vimperatorrc.local
+
+" vim: set ft=vimperator:
