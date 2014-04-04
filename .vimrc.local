@@ -40,16 +40,18 @@ nmap <leader>a :Ack "
 noremap <C-N> <C-A>
 
 " Step next in LLDB
-nmap <leader>l :Lstep<CR>
+nmap <leader>L :Lstep<CR>
 nmap <leader>; :Lexpression 
-nmap <leader>L :Lbreakpoint<CR>
+nmap <leader>l :Lbreakpoint<CR>
 
-
+nnoremap <Space><Space> :Lnext<CR>
 nnoremap <Left> :Lcontinue<CR>
 nnoremap <Right> :Lstep<CR>
 nnoremap <Up> :Lup<CR>
 nnoremap <Down> :Ldown<CR>
 let g:ackprg = 'ag --nogroup --nocolor --column'
+
+nmap <leader>x :cw<CR>
 
 set tabstop=4
 
@@ -58,3 +60,8 @@ set mouse=a
 " whitespace
 set list
 set listchars=tab:\|\ 
+
+set undofile                " Save undo's after file closes
+set undodir=$HOME/.vim/undo " where to save undo histories
+set undolevels=1000         " How many undos
+set undoreload=10000        " number of lines to save for undo " " " "

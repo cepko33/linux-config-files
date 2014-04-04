@@ -1,0 +1,71 @@
+" == Zenburn color scheme ==
+" name:    Zenburn
+" file:    zenburn.vimp
+" author:  Adrian C. <anrxc..sysphere.org>
+" license: GNU General Public License v2
+" == Zenburn color scheme settings ==
+hi Bellborder: 0 none; background-color: black;
+hi Booleancolor: #CC9393;
+hi CmdLinecolor: #DCDCCD; font-family: terminus; padding: 1px;
+hi CmdLine>*                            font-family: terminus;
+hi CmdOutputwhite-space: pre;
+hi CompDesccolor: #808080; width: 50%;
+" hi CompGroup
+" hi CompGroup:not(:first-of-type)  margin-top: .5em;
+hi CompIconwidth: 16px; min-width: 16px; display: inline-block; margin-right: .5ex;
+hi CompIcon>imgmax-width: 16px; max-height: 16px; vertical-align: middle;
+hi CompItemfont-family: terminus; font-size: 11px;
+hi CompItem>*               padding: 0 .5ex;
+hi CompItem[selected]           color: #2E4340; background: #CCDC90;
+" hi CompLesstext-align: center; height: 0; line-height: .5ex; padding-top: 1ex;
+" hi CompLess::aftercontent: "\2303" /* Unicode up arrowhead */
+" hi CompMoretext-align: center; height: .5ex; line-height: .5ex; margin-bottom: -.5ex;
+" hi CompMore::aftercontentcontent: "\2304" /* Unicode down arrowhead */
+hi CompMsgfont-style: italic; margin-left: 16px;
+hi CompResultwidth: 45%; overfloaw: hidden;
+hi CompTitlecolor: #ACBC90; background: #3F3F3F; font-weight: bold;
+hi CompTitle>*              padding: 0 .5ex;
+hi ErrorMsgcolor: #3F3F3F; background: #CC9393; font-weight: bold;
+hi Filtercolor: #2E4340; background: #CCDC90; font-weight: bold;
+hi FrameIndicatorbackground-color: #CC9393; opacity: 0.5; z-index: 999; position: fixed; top: 0; bottom: 0; left: 0; right: 0;
+hi Functioncolor: navy;
+" hi Gradientheight: 1px; margin-bottom: -1px; margin-top: -1px;
+" hi GradientLeftbackground-color: #ACBC90;
+" hi GradientRightbackground-color: #3F3F3F;
+hi Hintfont-family: monospace; font-size: 10px; font-weight: bold; color: #385F38; background-color: #F8F893; border-color: ButtonShadow; border-width: 0px; border-style: solid; padding 0px 1px 0px 1px;
+hi Hint::aftercontentcontentcontent: attr(number);
+hi HintActivebackground: #F18C96; color: #333333;
+hi HintElembackground-color: #8FAF9F; color: #000D18;
+hi HintImageopacity: .5;
+hi Indicatorcolor: #94BFF3;
+hi InfoMsgcolor: #DCDCCD; background: #3F3F3F;
+hi LineNrcolor: orange; background: #3F3F3F;
+hi Messagewhite-space: normal; min-width: 100%; padding-left: 2em; text-indent: -2em; display: block;
+hi ModeMsgcolor: #DCDCCD; background: #3F3F3F;
+hi MoreMsgcolor: #9ECE9E; background: #3F3F3F;
+hi NonTextcolor: #94BFF3; min-height: 16px; padding-left: 2px;
+hi Normalcolor: #DCDCCD; background: #3F3F3F; font-family: terminus;
+hi Nullcolor: #94BFF3;
+hi Numbercolor: #94BFF3;
+hi Objectcolor: maroon;
+hi Previewcolor: gray;
+hi Questioncolor: #9ECE9E; background: #3F3F3F; font-weight: bold;
+hi Searchfont-size: inherit; padding: 0; color: #385F38; background-color: #F8F893; padding: 0;
+" hi StatusLinecolor: #ACBC90; background: #1E2320;
+" hi StatusLineBrokencolor: #CC9393; background: #1E2320;
+" hi StatusLineSecurecolor: #F0DFAF; background: #1E2320;
+hi Stringcolor: #9ECE9E;
+hi TabClose
+hi TabIcon
+" hi TabIconNumberfont-weight: normal; color: #DCDCCD; text-align: center; text-shadow: black -1px 0 1px, black 0 1px 1px, black 1px 0 1px, black 0 -1px 1px;
+hi TabNumberfont-weight: bold; margin: 0; padding-right: .3ex;
+hi TabText
+hi Tagcolor: #94BFF3;
+hi Titlecolor: #ACBC90; background: #3F3F3F; font-weight: bold;
+hi URLtext-decoration: none; color: #9ECE9E; background: inherit;
+hi URL:hovertext-decoration: underline; cursor: pointer;
+hi WarningMsgcolor: #CC9393; background: #3F3F3F;
+
+style -name statusbar chrome://* <<EOM
+                    #liberator-statusline { font-family: terminus ! important; }
+EOM
