@@ -14,7 +14,7 @@ ZSH_THEME="robbyrussell"
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
 
-# Comment this out to disable bi-weekly auto-update checks
+# Uncomment this to disable bi-weekly auto-update checks
 # DISABLE_AUTO_UPDATE="true"
 
 # Uncomment to change how often before auto-updates occur? (in days)
@@ -37,16 +37,62 @@ ZSH_THEME="robbyrussell"
 # much faster.
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
 
+# Uncomment following line if you want to  shown in the command execution time stamp 
+# in the history command output. The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|
+# yyyy-mm-dd
+# HIST_STAMPS="mm/dd/yyyy"
+
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git)
+plugins=(brew git history rails ruby rvm wd web-search zsh-history-substring-search zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
-# Customize to your needs...
-export PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/cepkos/.cabal/bin
+# User configuration
+
+export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:$PATH"
+# export MANPATH="/usr/local/man:$MANPATH"
+
+# # Preferred editor for local and remote sessions
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='mvim'
+# fi
+
+# Compilation flags
+# export ARCHFLAGS="-arch x86_64"
+
+# ssh
+# export SSH_KEY_PATH="~/.ssh/dsa_id"
 
 
-export EDITOR='/usr/bin/vim'
-export VST_PATH='/home/cepkos/.vst'
+PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+
+# Useful aliases
+alias ls='ls $LS_OPTIONS -hFG'
+alias ll='ls $LS_OPTIONS -lhF'
+alias l='ls $LS_OPTIONS -lAhF'
+alias cd..="cd .."
+alias c="clear"
+alias e="exit"
+alias ssh="ssh -X"
+alias ..="cd .."
+ 
+alias kssh='knife sq ssh'
+alias kps='knife sq ps'
+alias kst='knife sq status'
+alias kex='knife sq exec'
+ 
+export PATH=$PATH:~/bin:~/sonian/sa-chef-repo/bin
+export OPSCODE_USER=sonian_devs
+export PATH
+export SONIAN_USER=stefan
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
+
+export EDITOR="vim"
+export TERM=xterm-256color
+
+alias makeneovim="cd ~/Programs/neovim && git pull upstream master && make cmake -j8 && make build/bin/nvim -j8 && ctags -R ." 
