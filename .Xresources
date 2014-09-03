@@ -38,3 +38,4 @@ URxvt*cursorColor2:       #151515
 URxvt*.font:	    xft:Droid Sans Mono:size=10
 URxvt*.boldFont:    xft:Droid Sans Mono:size=10
 URxvt*.scrollBar: False
+URxvt*.letterSpace: -2

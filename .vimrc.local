@@ -1,3 +1,5 @@
+set t_Co=256
+
 " Source the vimrc file after saving it
 if has("autocmd")
   autocmd bufwritepost .vimrc source $MYVIMRC
@@ -39,7 +41,7 @@ nmap <leader>a :Ack "
 " Allow <C-I> for file navigation
 noremap <C-N> <C-A>
 
-" Step next in LLDB
+" Stepping integration in vim-LLDB
 nmap <leader>L :Lstep<CR>
 nmap <leader>; :Lexpression 
 nmap <leader>l :Lbreakpoint<CR>
@@ -49,7 +51,7 @@ nnoremap <Left> :Lcontinue<CR>
 nnoremap <Right> :Lstep<CR>
 nnoremap <Up> :Lup<CR>
 nnoremap <Down> :Ldown<CR>
-let g:ackprg = 'ag --nogroup --nocolor --column'
+let g:ackprg = 'ag --ignore tags --nogroup --nocolor --column'
 
 nmap <leader>x :cw<CR>
 
@@ -59,7 +61,7 @@ set mouse=a
 
 " whitespace
 set list
-set listchars=tab:\|\ 
+set listchars=tab:\⣧\⣀
 
 set undofile                " Save undo's after file closes
 set undodir=$HOME/.vim/undo " where to save undo histories
@@ -68,3 +70,15 @@ set undoreload=10000        " number of lines to save for undo " " " "
 
 set updatetime=500
 nnoremap <leader>w :exe 'silent! ptag '.expand("<cword>")<CR>
+
+set noexpandtab
+set tabstop=4
+set shiftwidth=4
+
+nmap <leader>z :set invlist<CR>
+
+let tlist_vala_settings='c#;d:macro;t:typedef;n:namespace;c:class;'.
+  \ 'E:event;g:enum;s:struct;i:interface;'.
+  \ 'p:properties;m:method'
+
+let g:tagbar_ctags_bin = "anjuta-tags"

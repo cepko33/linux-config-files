@@ -1,0 +1,2204 @@
+
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+Searching for "debian.vim" in "/home/cepkos/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/home/cepkos/.vim/after"
+Searching for "/home/cepkos/.vim/debian.vim"
+Searching for "/usr/share/vim/vimfiles/debian.vim"
+Searching for "/usr/share/vim/vim74/debian.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 10: sourcing "/usr/share/vim/vim74/debian.vim"
+finished sourcing /usr/share/vim/vim74/debian.vim
+continuing in /usr/share/vim/vimrc
+Searching for "/usr/share/vim/vimfiles/after/debian.vim"
+Searching for "/home/cepkos/.vim/after/debian.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 20: sourcing "/usr/share/vim/vim74/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/home/cepkos/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/cepkos/.vim/after"
+Searching for "/home/cepkos/.vim/syntax/synload.vim"
+Searching for "/var/lib/vim/addons/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim74/syntax/synload.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim74/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/home/cepkos/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/cepkos/.vim/after"
+Searching for "/home/cepkos/.vim/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim74/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim74/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+continuing in /usr/share/vim/vim74/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/synload.vim
+continuing in /usr/share/vim/vim74/syntax/syntax.vim
+Searching for "filetype.vim" in "/home/cepkos/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/cepkos/.vim/after"
+Searching for "/home/cepkos/.vim/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim74/filetype.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim74/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/cepkos/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/cepkos/.vim/after"
+Searching for "/home/cepkos/.vim/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim74/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim74/filetype.vim
+continuing in /usr/share/vim/vim74/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/home/cepkos/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syntax.vim
+continuing in /usr/share/vim/vimrc
+finished sourcing $VIM/vimrc
+chdir(/home/cepkos)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+chdir(/home/cepkos)
+fchdir() to previous dir
+line 23: sourcing "/home/cepkos/.vimrc.bundles"
+Searching for "ftoff.vim" in "/home/cepkos/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/cepkos/.vim/after"
+Searching for "/home/cepkos/.vim/ftoff.vim"
+Searching for "/var/lib/vim/addons/ftoff.vim"
+Searching for "/usr/share/vim/vimfiles/ftoff.vim"
+Searching for "/usr/share/vim/vim74/ftoff.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 3: sourcing "/usr/share/vim/vim74/ftoff.vim"
+finished sourcing /usr/share/vim/vim74/ftoff.vim
+continuing in /home/cepkos/.vimrc.bundles
+Searching for "/usr/share/vim/vimfiles/after/ftoff.vim"
+Searching for "/var/lib/vim/addons/after/ftoff.vim"
+Searching for "/home/cepkos/.vim/after/ftoff.vim"
+Searching for "autoload/vundle.vim" in "/home/cepkos/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/cepkos/.vim/after,/home/cepkos/.vim/bundle/Vundle.vim/"
+Searching for "/home/cepkos/.vim/autoload/vundle.vim"
+Searching for "/var/lib/vim/addons/autoload/vundle.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/vundle.vim"
+Searching for "/usr/share/vim/vim74/autoload/vundle.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/vundle.vim"
+Searching for "/var/lib/vim/addons/after/autoload/vundle.vim"
+Searching for "/home/cepkos/.vim/after/autoload/vundle.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/autoload/vundle.vim"
+chdir(/home/cepkos/.vim/bundle/Vundle.vim/autoload)
+fchdir() to previous dir
+line 5: sourcing "/home/cepkos/.vim/bundle/Vundle.vim/autoload/vundle.vim"
+finished sourcing /home/cepkos/.vim/bundle/Vundle.vim/autoload/vundle.vim
+continuing in /home/cepkos/.vimrc.bundles
+Searching for "autoload/vundle/config.vim" in "/home/cepkos/.vim,/var/lib/vim/addons,/usr/share/vim/vimfiles,/usr/share/vim/vim74,/usr/share/vim/vimfiles/after,/var/lib/vim/addons/after,/home/cepkos/.vim/after,/home/cepkos/.vim/bundle/Vundle.vim/"
+Searching for "/home/cepkos/.vim/autoload/vundle/config.vim"
+Searching for "/var/lib/vim/addons/autoload/vundle/config.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/vundle/config.vim"
+Searching for "/usr/share/vim/vim74/autoload/vundle/config.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/vundle/config.vim"
+Searching for "/var/lib/vim/addons/after/autoload/vundle/config.vim"
+Searching for "/home/cepkos/.vim/after/autoload/vundle/config.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/autoload/vundle/config.vim"
+chdir(/home/cepkos/.vim/bundle/Vundle.vim/autoload/vundle)
+fchdir() to previous dir
+line 5: sourcing "/home/cepkos/.vim/bundle/Vundle.vim/autoload/vundle/config.vim"
+finished sourcing /home/cepkos/.vim/bundle/Vundle.vim/autoload/vundle/config.vim
+continuing in function vundle#rc
+chdir(/home/cepkos)
+fchdir() to previous dir
+line 26: sourcing "/home/cepkos/.vimrc.bundles.local"
+                                                     Error detected while processing function vundle#config#bundle..<SNR>11_check_bundle_name:
+line    2:
+Vundle error: Name collision for Plugin tpope/vim-surround. Plugin tpope/vim-surround previously used the name "vim-surround". Skipping Plugin tpope/vim-surround.
+finished sourcing /home/cepkos/.vimrc.bundles.local
+continuing in /home/cepkos/.vimrc.bundles
+Searching for "filetype.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepkos/.vi
+Searching for "/home/cepkos/.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim74/filetype.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 29: sourcing "/usr/share/vim/vim74/filetype.vim"
+Searching for "ftdetect/*.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepkos/.
+Searching for "/home/cepkos/.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/ftdetect/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-coffee-script/ftdetect)
+fchdir() to previous dir
+line 2641: sourcing "/home/cepkos/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-coffee-script/ftdetect/coffee.vim
+continuing in /usr/share/vim/vim74/filetype.vim
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/ftdetect/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-cucumber/ftdetect)
+fchdir() to previous dir
+line 2641: sourcing "/home/cepkos/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-cucumber/ftdetect/cucumber.vim
+continuing in /usr/share/vim/vim74/filetype.vim
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/ftdetect/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-clojure-static/ftdetect)
+fchdir() to previous dir
+line 2641: sourcing "/home/cepkos/.vim/bundle/vim-clojure-static/ftdetect/clojure.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-clojure-static/ftdetect/clojure.vim
+continuing in /usr/share/vim/vim74/filetype.vim
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim74/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/var/lib/vim/addons/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/ftdetect/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim74/filetype.vim
+continuing in /home/cepkos/.vimrc.bundles
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/home/cepkos/.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/filetype.vim"
+finished sourcing /home/cepkos/.vimrc.bundles
+continuing in /home/cepkos/.vimrc
+Searching for "filetype.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepkos/.vi
+Searching for "/home/cepkos/.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/filetype.vim"
+Searching for "/var/lib/vim/addons/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim74/filetype.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 26: sourcing "/usr/share/vim/vim74/filetype.vim"
+finished sourcing /usr/share/vim/vim74/filetype.vim
+continuing in /home/cepkos/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/var/lib/vim/addons/after/filetype.vim"
+Searching for "/home/cepkos/.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/filetype.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/filetype.vim"
+Searching for "ftplugin.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepkos/.vi
+Searching for "/home/cepkos/.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/ftplugin.vim"
+Searching for "/var/lib/vim/addons/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim74/ftplugin.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 26: sourcing "/usr/share/vim/vim74/ftplugin.vim"
+finished sourcing /usr/share/vim/vim74/ftplugin.vim
+continuing in /home/cepkos/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/var/lib/vim/addons/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/ftplugin.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/ftplugin.vim"
+Searching for "indent.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepkos/.vim/
+Searching for "/home/cepkos/.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/indent.vim"
+Searching for "/var/lib/vim/addons/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+Searching for "/usr/share/vim/vim74/indent.vim"
+chdir(/usr/share/vim/vim74)
+fchdir() to previous dir
+line 26: sourcing "/usr/share/vim/vim74/indent.vim"
+finished sourcing /usr/share/vim/vim74/indent.vim
+continuing in /home/cepkos/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/indent.vim"
+Searching for "/var/lib/vim/addons/after/indent.vim"
+Searching for "/home/cepkos/.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/indent.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/indent.vim"
+Searching for "colors/default.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepk
+Searching for "/home/cepkos/.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/colors/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/colors/default.vim"
+Searching for "/var/lib/vim/addons/colors/default.vim"
+Searching for "/usr/share/vim/vimfiles/colors/default.vim"
+Searching for "/usr/share/vim/vim74/colors/default.vim"
+chdir(/usr/share/vim/vim74/colors)
+fchdir() to previous dir
+line 78: sourcing "/usr/share/vim/vim74/colors/default.vim"
+Searching for "syntax/syncolor.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cep
+Searching for "/home/cepkos/.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim74/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 11: sourcing "/usr/share/vim/vim74/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+continuing in /usr/share/vim/vim74/colors/default.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cep
+Searching for "/home/cepkos/.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim74/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 14: sourcing "/usr/share/vim/vim74/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+continuing in /usr/share/vim/vim74/colors/default.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/syntax/syncolor.vim"
+Searching for "syntax/syncolor.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cep
+Searching for "/home/cepkos/.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim74/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim74/syntax)
+fchdir() to previous dir
+line 18: sourcing "/usr/share/vim/vim74/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+continuing in /usr/share/vim/vim74/colors/default.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/var/lib/vim/addons/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/syntax/syncolor.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim74/colors/default.vim
+continuing in /home/cepkos/.vimrc
+chdir(/home/cepkos)
+fchdir() to previous dir
+line 136: sourcing "/home/cepkos/.vimrc.local"
+finished sourcing /home/cepkos/.vimrc.local
+continuing in /home/cepkos/.vimrc
+finished sourcing $HOME/.vimrc
+Searching for "plugin/**/*.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepkos/
+Searching for "/home/cepkos/.vim/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/rename.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/rename.vim/plugin/rename.vim"
+finished sourcing /home/cepkos/.vim/bundle/rename.vim/plugin/rename.vim
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/ctrlp.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim"
+Searching for "autoload/ctrlp/mrufiles.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/
+Searching for "/home/cepkos/.vim/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/ctrlp/mrufiles.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim"
+chdir(/home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp)
+fchdir() to previous dir
+line 40: sourcing "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim"
+finished sourcing /home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+continuing in /home/cepkos/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+finished sourcing /home/cepkos/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-rspec/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-rspec/plugin/rspec.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-rspec/plugin/rspec.vim
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-endwise/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-endwise/plugin/endwise.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-endwise/plugin/endwise.vim
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-fugitive/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-fugitive/plugin/fugitive.vim"
+Searching for "autoload/fugitive.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/c
+Searching for "/home/cepkos/.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/fugitive.vim"
+Searching for "/var/lib/vim/addons/autoload/fugitive.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/fugitive.vim"
+Searching for "/usr/share/vim/vim74/autoload/fugitive.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/fugitive.vim"
+Searching for "/var/lib/vim/addons/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/autoload/fugitive.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/autoload/fugitive.vim"
+not found in 'runtimepath': "autoload/fugitive.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-fugitive/plugin/fugitive.vim
+Searching for "/home/cepkos/.vim/bundle/vim-rails/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-rails/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-rails/plugin/rails.vim"
+Searching for "plugin/projectionist.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/hom
+Searching for "/home/cepkos/.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/plugin/projectionist.vim"
+Searching for "/var/lib/vim/addons/plugin/projectionist.vim"
+Searching for "/usr/share/vim/vimfiles/plugin/projectionist.vim"
+Searching for "/usr/share/vim/vim74/plugin/projectionist.vim"
+Searching for "/usr/share/vim/vimfiles/after/plugin/projectionist.vim"
+Searching for "/var/lib/vim/addons/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/plugin/projectionist.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/plugin/projectionist.vim"
+not found in 'runtimepath': "plugin/projectionist.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-rails/plugin/rails.vim
+Searching for "/home/cepkos/.vim/bundle/vim-surround/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-surround/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-surround/plugin/surround.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-surround/plugin/surround.vim
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/ctags.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/ctags.vim/plugin/ctags.vim"
+finished sourcing /home/cepkos/.vim/bundle/ctags.vim/plugin/ctags.vim
+Searching for "/home/cepkos/.vim/bundle/tComment/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/tComment/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/tComment/plugin/tcomment.vim"
+finished sourcing /home/cepkos/.vim/bundle/tComment/plugin/tcomment.vim
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/goyo.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/goyo.vim/plugin/goyo.vim"
+finished sourcing /home/cepkos/.vim/bundle/goyo.vim/plugin/goyo.vim
+Searching for "/home/cepkos/.vim/bundle/nerdtree/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/nerdtree/plugin/NERD_tree.vim"
+Searching for "autoload/nerdtree.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/c
+Searching for "/home/cepkos/.vim/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/autoload)
+fchdir() to previous dir
+line 70: sourcing "/home/cepkos/.vim/bundle/nerdtree/autoload/nerdtree.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/autoload/nerdtree.vim
+continuing in /home/cepkos/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+Searching for "lib/nerdtree/path.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/c
+Searching for "/home/cepkos/.vim/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/path.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 1: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/path.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/path.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/menu_controller.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-sta
+Searching for "/home/cepkos/.vim/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/menu_controller.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 2: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/menu_controller.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/menu_item.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/h
+Searching for "/home/cepkos/.vim/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/menu_item.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 3: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/menu_item.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/key_map.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/hom
+Searching for "/home/cepkos/.vim/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/key_map.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 4: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/key_map.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/bookmark.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/ho
+Searching for "/home/cepkos/.vim/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/bookmark.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 5: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/bookmark.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/tree_file_node.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-stat
+Searching for "/home/cepkos/.vim/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/tree_file_node.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 6: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/tree_file_node.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/tree_dir_node.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-stati
+Searching for "/home/cepkos/.vim/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/tree_dir_node.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 7: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/tree_dir_node.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/opener.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home
+Searching for "/home/cepkos/.vim/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/opener.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 8: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/opener.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/opener.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/creator.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/hom
+Searching for "/home/cepkos/.vim/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/creator.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 9: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/creator.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/creator.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/flag_set.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/ho
+Searching for "/home/cepkos/.vim/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/flag_set.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 10: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/flag_set.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/nerdtree.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/ho
+Searching for "/home/cepkos/.vim/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/nerdtree.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 11: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/nerdtree.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/ui.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cep
+Searching for "/home/cepkos/.vim/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/ui.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 12: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/ui.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/ui.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/event.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/
+Searching for "/home/cepkos/.vim/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/event.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 13: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/event.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/event.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "lib/nerdtree/notifier.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/ho
+Searching for "/home/cepkos/.vim/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/lib/nerdtree/notifier.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree)
+fchdir() to previous dir
+line 14: sourcing "/home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/lib/nerdtree/notifier.vim
+continuing in function nerdtree#loadClassFiles
+Searching for "autoload/nerdtree/ui_glue.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static
+Searching for "/home/cepkos/.vim/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/nerdtree/ui_glue.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/autoload/nerdtree)
+fchdir() to previous dir
+line 145: sourcing "/home/cepkos/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/autoload/nerdtree/ui_glue.vim
+continuing in /home/cepkos/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+Searching for "nerdtree_plugin/**/*.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/hom
+Searching for "/home/cepkos/.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/nerdtree_plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/home/cepkos/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/nerdtree_plugin/exec_menuitem.vim
+continuing in function nerdtree#postSourceActions
+chdir(/home/cepkos/.vim/bundle/nerdtree/nerdtree_plugin)
+fchdir() to previous dir
+line 5: sourcing "/home/cepkos/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/nerdtree_plugin/fs_menu.vim
+continuing in function nerdtree#postSourceActions
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/nerdtree_plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/nerdtree_plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/nerdtree_plugin/**/*.vim"
+Searching for "/usr/share/vim/vim74/nerdtree_plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/nerdtree_plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/nerdtree_plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/nerdtree_plugin/**/*.vim"
+finished sourcing /home/cepkos/.vim/bundle/nerdtree/plugin/NERD_tree.vim
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/lightline.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/lightline.vim/plugin/lightline.vim"
+finished sourcing /home/cepkos/.vim/bundle/lightline.vim/plugin/lightline.vim
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/ragtag.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/ragtag.vim/plugin/ragtag.vim"
+finished sourcing /home/cepkos/.vim/bundle/ragtag.vim/plugin/ragtag.vim
+Searching for "/home/cepkos/.vim/bundle/tagbar/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/tagbar/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/tagbar/plugin/tagbar.vim"
+finished sourcing /home/cepkos/.vim/bundle/tagbar/plugin/tagbar.vim
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/greplace.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/greplace.vim/plugin/greplace.vim"
+finished sourcing /home/cepkos/.vim/bundle/greplace.vim/plugin/greplace.vim
+Searching for "/home/cepkos/.vim/bundle/ack.vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/ack.vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/ack.vim/plugin/ack.vim"
+finished sourcing /home/cepkos/.vim/bundle/ack.vim/plugin/ack.vim
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-indent-guides/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-indent-guides/plugin/indent_guides.vim"
+Searching for "autoload/indent_guides.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/h
+Searching for "/home/cepkos/.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/indent_guides.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/indent_guides.vim"
+chdir(/home/cepkos/.vim/bundle/vim-indent-guides/autoload)
+fchdir() to previous dir
+line 8: sourcing "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/indent_guides.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-indent-guides/autoload/indent_guides.vim
+continuing in /home/cepkos/.vim/bundle/vim-indent-guides/plugin/indent_guides.vim
+finished sourcing /home/cepkos/.vim/bundle/vim-indent-guides/plugin/indent_guides.vim
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-lldb/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-lldb/plugin/lldb.vim"
+Searching for "autoload/lldb.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepko
+Searching for "/home/cepkos/.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/lldb.vim"
+Searching for "/var/lib/vim/addons/autoload/lldb.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/lldb.vim"
+Searching for "/usr/share/vim/vim74/autoload/lldb.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/lldb.vim"
+Searching for "/var/lib/vim/addons/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/autoload/lldb.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/autoload/lldb.vim"
+not found in 'runtimepath': "autoload/lldb.vim"
+ Error loading lldb module; vim-lldb will be disabled. Check LLDB installation or set LLDB environment variable.
+Error detected while processing function <SNR>57_InitLldbPlugin..lldb#pythonInit:
+line    4:
+Unable to load vim/lldb module. Check lldb is on the path is available (or LLDB is set) and that script is invoked inside Vim with :pyfile
+finished sourcing /home/cepkos/.vim/bundle/vim-lldb/plugin/lldb.vim
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-autoclose/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-autoclose/plugin/AutoClose.vim"
+Searching for "autoload/AutoClose.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/
+Searching for "/home/cepkos/.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/AutoClose.vim"
+Searching for "/var/lib/vim/addons/autoload/AutoClose.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/AutoClose.vim"
+Searching for "/usr/share/vim/vim74/autoload/AutoClose.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/AutoClose.vim"
+Searching for "/var/lib/vim/addons/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/autoload/AutoClose.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/autoload/AutoClose.vim"
+not found in 'runtimepath': "autoload/AutoClose.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-autoclose/plugin/AutoClose.vim
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/emmet-vim/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/emmet-vim/plugin/emmet.vim"
+finished sourcing /home/cepkos/.vim/bundle/emmet-vim/plugin/emmet.vim
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-fireplace/plugin/fireplace)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-fireplace/plugin/fireplace/zip.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-fireplace/plugin/fireplace/zip.vim
+chdir(/home/cepkos/.vim/bundle/vim-fireplace/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-fireplace/plugin/fireplace.vim"
+Searching for "autoload/fireplace.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/
+Searching for "/home/cepkos/.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/fireplace.vim"
+Searching for "/var/lib/vim/addons/autoload/fireplace.vim"
+Searching for "/usr/share/vim/vimfiles/autoload/fireplace.vim"
+Searching for "/usr/share/vim/vim74/autoload/fireplace.vim"
+Searching for "/usr/share/vim/vimfiles/after/autoload/fireplace.vim"
+Searching for "/var/lib/vim/addons/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/autoload/fireplace.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/autoload/fireplace.vim"
+not found in 'runtimepath': "autoload/fireplace.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-fireplace/plugin/fireplace.vim
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-classpath/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-classpath/plugin/classpath.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-classpath/plugin/classpath.vim
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/plugin/**/*.vim"
+chdir(/home/cepkos/.vim/bundle/vim-gitgutter/plugin)
+fchdir() to previous dir
+sourcing "/home/cepkos/.vim/bundle/vim-gitgutter/plugin/gitgutter.vim"
+Searching for "autoload/gitgutter/highlight.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-sta
+Searching for "/home/cepkos/.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/gitgutter/highlight.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/highlight.vim"
+chdir(/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter)
+fchdir() to previous dir
+line 47: sourcing "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/highlight.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/highlight.vim
+continuing in /home/cepkos/.vim/bundle/vim-gitgutter/plugin/gitgutter.vim
+SignColumn     xxx term=standout ctermfg=4 ctermbg=7 guifg=DarkBlue guibg=Grey
+	Last set from /usr/share/vim/vim74/colors/default.vim
+finished sourcing /home/cepkos/.vim/bundle/vim-gitgutter/plugin/gitgutter.vim
+Searching for "/var/lib/vim/addons/plugin/**/*.vim"
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/share/vim/vim74/plugin/**/*.vim"
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim74/plugin/gzip.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim74/plugin/matchparen.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim74/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim74/plugin/spellfile.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim74/plugin/tohtml.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim74/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim74/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim74/plugin/zipPlugin.vim
+Searching for "/usr/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/var/lib/vim/addons/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/Vundle.vim/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/after/plugin/**/*.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/after/plugin/**/*.vim"
+Reading viminfo file "/home/cepkos/.viminfo" info oldfiles
+Executing BufWinEnter Auto commands for "*"
+autocommand if s:can_diffoff(+expand('<abuf>')) && s:diff_window_count() == 1 |   call s:diffoff() | endif
+
+Executing BufWinEnter Auto commands for "*"
+autocommand call lightline#update()
+
+Searching for "autoload/lightline.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/
+Searching for "/home/cepkos/.vim/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/lightline.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline.vim"
+chdir(/home/cepkos/.vim/bundle/lightline.vim/autoload)
+fchdir() to previous dir
+line 0: sourcing "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline.vim"
+finished sourcing /home/cepkos/.vim/bundle/lightline.vim/autoload/lightline.vim
+continuing in BufWinEnter Auto commands for "*"
+Searching for "autoload/lightline/tab.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/h
+Searching for "/home/cepkos/.vim/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/lightline/tab.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/tab.vim"
+chdir(/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline)
+fchdir() to previous dir
+line 52: sourcing "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/tab.vim"
+finished sourcing /home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/tab.vim
+continuing in function lightline#update..lightline#init
+Searching for "autoload/lightline/colorscheme/default.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-c
+Searching for "/home/cepkos/.vim/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/lightline/colorscheme/default.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/default.vim"
+chdir(/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme)
+fchdir() to previous dir
+line 2: sourcing "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/default.vim"
+Searching for "autoload/lightline/colorscheme/powerline.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim
+Searching for "/home/cepkos/.vim/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/lightline/colorscheme/powerline.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/powerline.vim"
+chdir(/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme)
+fchdir() to previous dir
+line 9: sourcing "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/powerline.vim"
+Searching for "autoload/lightline/colorscheme.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-s
+Searching for "/home/cepkos/.vim/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/lightline/colorscheme.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme.vim"
+chdir(/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline)
+fchdir() to previous dir
+line 29: sourcing "/home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme.vim"
+finished sourcing /home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme.vim
+continuing in /home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/powerline.vim
+finished sourcing /home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/powerline.vim
+continuing in /home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/default.vim
+finished sourcing /home/cepkos/.vim/bundle/lightline.vim/autoload/lightline/colorscheme/default.vim
+continuing in function lightline#update..lightline#colorscheme
+Executing BufEnter Auto commands for "*"
+autocommand cal s:record(expand('<abuf>', 1))
+
+Executing BufEnter Auto commands for "*"
+autocommand if exists("b:rails_root")|silent doau User BufEnterRails|endif
+
+Executing BufEnter Auto commands for "*"
+autocommand call nerdtree#checkForBrowse(expand("<amatch>"))
+
+Executing BufEnter Auto commands for "*"
+autocommand call indent_guides#process_autocmds()
+
+Executing BufEnter Auto commands for "*"
+autocommand if !<SID>IsLoadedOnBuffer() | call <SID>CreateMaps() | endif
+
+Executing FileType Auto commands for "*"
+autocommand exe "set syntax=" . expand("<amatch>")
+
+Executing Syntax Auto commands for "*"
+autocommand call s:SynSet()
+
+Executing FileType Auto commands for "*"
+autocommand call s:LoadFTPlugin()
+
+Executing FileType Auto commands for "*"
+autocommand call s:LoadIndent()
+
+Executing FileType Auto commands for "*"
+autocommand call s:abbrev()
+
+Executing FileType Auto commands for "*"
+autocommand if RailsDetect() | call rails#buffer_setup() | endif
+
+Searching for "autoload/rails.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/cepk
+Searching for "/home/cepkos/.vim/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/rails.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/rails.vim"
+chdir(/home/cepkos/.vim/bundle/vim-rails/autoload)
+fchdir() to previous dir
+line 0: sourcing "/home/cepkos/.vim/bundle/vim-rails/autoload/rails.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-rails/autoload/rails.vim
+continuing in FileType Auto commands for "*"
+Executing FileType Auto commands for "*"
+autocommand call lightline#update()
+
+Executing FileType Auto commands for "*"
+autocommand call indent_guides#process_autocmds()
+
+autocommand if mode() == 'i' | call <SID>EmptyBuffer() | endif
+
+Executing BufEnter Auto commands for "*"
+autocommand if gettabvar(tabpagenr(), 'gitgutter_didtabenter')|   call settabvar(tabpagenr(), 'gitgutter_didtabenter', 0)| else|   call gitgutter#process_buffer(gitgutter#utility#current_file(), 0)| endif
+
+Searching for "autoload/gitgutter.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/home/
+Searching for "/home/cepkos/.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/gitgutter.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter.vim"
+chdir(/home/cepkos/.vim/bundle/vim-gitgutter/autoload)
+fchdir() to previous dir
+line 0: sourcing "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter.vim
+continuing in BufEnter Auto commands for "*"
+Searching for "autoload/gitgutter/utility.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-stati
+Searching for "/home/cepkos/.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/gitgutter/utility.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/utility.vim"
+chdir(/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter)
+fchdir() to previous dir
+line 0: sourcing "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/utility.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/utility.vim
+continuing in BufEnter Auto commands for "*"
+Searching for "autoload/gitgutter/hunk.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/
+Searching for "/home/cepkos/.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rspec/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-cucumber/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-endwise/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fugitive/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-rails/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-surround/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-matchit/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/ctags.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/tComment/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/goyo.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/nerdtree/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/lightline.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/ragtag.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/tagbar/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/greplace.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/ack.vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-indent-guides/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-lldb/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-autoclose/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/emmet-vim/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-clojure-static/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-fireplace/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-classpath/autoload/gitgutter/hunk.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/hunk.vim"
+chdir(/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter)
+fchdir() to previous dir
+line 28: sourcing "/home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/hunk.vim"
+finished sourcing /home/cepkos/.vim/bundle/vim-gitgutter/autoload/gitgutter/hunk.vim
+continuing in function gitgutter#process_buffer
+Executing BufEnter Auto commands for "*"
+autocommand sil! call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Auto commands for "*"
+autocommand if expand('<amatch>')==''|call fugitive#detect(getcwd())|endif
+
+Executing VimEnter Auto commands for "*"
+autocommand if empty(expand("<amatch>")) && RailsDetect(getcwd()) |   call rails#buffer_setup() |   silent doau User BufEnterRails | endif
+
+Executing VimEnter Auto commands for "*"
+autocommand call s:abolish_setup()
+
+Executing VimEnter Auto commands for "*"
+autocommand silent! autocmd! FileExplorer
+
+autocommand call nerdtree#checkForBrowse(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call lightline#update_once()
+
+Executing CursorMoved Auto commands for "*"
+autocommand :Lrefresh
+
+Error detected while processing CursorMoved Auto commands for "*":
+Traceback (most recent call last):
+Error detected while processing CursorMoved Auto commands for "*":
+  File "<string>", line 1, in <module>
+Error detected while processing CursorMoved Auto commands for "*":
+NameError: name 'ctrl' is not defined
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+Executing CursorHold Auto commands for "*"
+autocommand if exists('generate_tags') | let &titlestring='%t%( %M%)%( (%{expand("%:~:.:h")})%)%( %a%)%='.GetTagName(line(".")) | endif
+
+Executing CursorHold Auto commands for "*"
+autocommand if exists("b:loaded_ragtag") | call s:Leave() | endif
+
+Executing CursorHold Auto commands for "*"
+autocommand :Lrefresh
+
+Error detected while processing CursorHold Auto commands for "*":
+Traceback (most recent call last):
+Error detected while processing CursorHold Auto commands for "*":
+  File "<string>", line 1, in <module>
+Error detected while processing CursorHold Auto commands for "*":
+NameError: name 'ctrl' is not defined
+Executing CursorHold Auto commands for "*"
+autocommand call gitgutter#process_buffer(gitgutter#utility#current_file(), 1)
+
+
+Executing BufWinLeave Auto commands for "*"
+autocommand execute getwinvar(+bufwinnr(+expand('<abuf>')), 'fugitive_leave')
+
+Executing BufWinLeave Auto commands for "*"
+autocommand if s:can_diffoff(+expand('<abuf>')) && s:diff_window_count() == 2 |   call s:diffoff_all(getbufvar(+expand('<abuf>'), 'git_dir')) | endif
+
+Executing BufUnload Auto commands for "*"
+autocommand call lightline#update_once()
+
+Executing VimLeavePre Auto commands for "*"
+autocommand cal s:savetofile(s:mergelists())
+
+Searching for "autoload/ctrlp/utils.vim" in "/home/cepkos/.vim,/home/cepkos/.vim/bundle/vundle,/home/cepkos/.vim/bundle/vim-colors-github,/home/cepkos/.vim/bundle/rename.vim,/home/cepkos/.vim/bundle/vim-coffee-script,/home/cepkos/.vim/bundle/ctrlp.vim,/home/cepkos/.vim/bundle/vim-rspec,/home/cepkos/.vim/bundle/vim-cucumber,/home/cepkos/.vim/bundle/vim-endwise,/home/cepkos/.vim/bundle/vim-fugitive,/home/cepkos/.vim/bundle/vim-rails,/home/cepkos/.vim/bundle/vim-surround,/home/cepkos/.vim/bundle/vim-matchit,/home/cepkos/.vim/bundle/ctags.vim,/home/cepkos/.vim/bundle/tComment,/home/cepkos/.vim/bundle/goyo.vim,/home/cepkos/.vim/bundle/nerdtree,/home/cepkos/.vim/bundle/lightline.vim,/home/cepkos/.vim/bundle/ragtag.vim,/home/cepkos/.vim/bundle/tagbar,/home/cepkos/.vim/bundle/greplace.vim,/home/cepkos/.vim/bundle/ack.vim,/home/cepkos/.vim/bundle/vim-indent-guides,/home/cepkos/.vim/bundle/vim-lldb,/home/cepkos/.vim/bundle/vim-autoclose,/home/cepkos/.vim/bundle/emmet-vim,/home/cepkos/.vim/bundle/vim-clojure-static,/hom
+Searching for "/home/cepkos/.vim/autoload/ctrlp/utils.vim"
+Searching for "/home/cepkos/.vim/bundle/vundle/autoload/ctrlp/utils.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-colors-github/autoload/ctrlp/utils.vim"
+Searching for "/home/cepkos/.vim/bundle/rename.vim/autoload/ctrlp/utils.vim"
+Searching for "/home/cepkos/.vim/bundle/vim-coffee-script/autoload/ctrlp/utils.vim"
+Searching for "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp/utils.vim"
+chdir(/home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp)
+fchdir() to previous dir
+line 2: sourcing "/home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp/utils.vim"
+finished sourcing /home/cepkos/.vim/bundle/ctrlp.vim/autoload/ctrlp/utils.vim
+continuing in function <SNR>22_mergelists..ctrlp#mrufiles#cachefile
+Executing VimLeavePre Auto commands for "*"
+autocommand python ctrl.doExit()
+
+Error detected while processing VimLeavePre Auto commands for "*":
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+NameError: name 'ctrl' is not defined
+Writing viminfo file "/home/cepkos/.viminfo"

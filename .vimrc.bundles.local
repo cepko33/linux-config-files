@@ -6,11 +6,11 @@ Bundle 'majutsushi/tagbar'
 Bundle 'greplace.vim'
 Bundle 'mileszs/ack.vim'
 Bundle 'nathanaelkane/vim-indent-guides'
-Bundle "gilligan/vim-lldb"
-Bundle "tpope/vim-surround"
+" Bundle "gilligan/vim-lldb"
 Bundle "Townk/vim-autoclose"
 Bundle "mattn/emmet-vim"
 Bundle "guns/vim-clojure-static"
 Bundle "tpope/vim-fireplace"
 Bundle "tpope/vim-classpath"
 Bundle "airblade/vim-gitgutter"
+Bundle "tkztmk/vim-vala"
