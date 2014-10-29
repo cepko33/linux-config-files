@@ -26,7 +26,7 @@ nmap <leader>n :NERDTreeToggle<CR>
 nmap <leader>t :TagbarToggle<CR>
 
 " gitblame and tab navigation
-nmap <leader>b :Gblame<CR> A
+nmap <leader>b :Gblame<CR>
 nmap <leader>, gT
 nmap <leader>. gt
 
@@ -55,7 +55,10 @@ let g:ackprg = 'ag --ignore tags --nogroup --nocolor --column'
 
 nmap <leader>x :cw<CR>
 
-set tabstop=4
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set expandtab
 
 set mouse=a
 
@@ -71,10 +74,6 @@ set undoreload=10000        " number of lines to save for undo " " " "
 set updatetime=500
 nnoremap <leader>w :exe 'silent! ptag '.expand("<cword>")<CR>
 
-set noexpandtab
-set tabstop=4
-set shiftwidth=4
-
 nmap <leader>z :set invlist<CR>
 
 let tlist_vala_settings='c#;d:macro;t:typedef;n:namespace;c:class;'.
@@ -82,3 +81,13 @@ let tlist_vala_settings='c#;d:macro;t:typedef;n:namespace;c:class;'.
   \ 'p:properties;m:method'
 
 let g:tagbar_ctags_bin = "anjuta-tags"
+
+highlight clear SignColumn
+highlight GitGutterAdd ctermfg=green guifg=darkgreen
+highlight GitGutterChange ctermfg=yellow guifg=darkyellow
+highlight GitGutterDelete ctermfg=red guifg=darkred
+highlight GitGutterChangeDelete ctermfg=yellow guifg=darkyellow
+
+" single line scroll
+:map <ScrollWheelUp> <C-Y>
+:map <ScrollWheelDown> <C-E>
