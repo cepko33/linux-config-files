@@ -12,4 +12,15 @@ statusbarpanel > * { margin: 0 !important; padding: 0 !important; }
 EOF
 source! /Users/scepko/.vimperatorrc.local
 
+map <silent> <C-F1> :js toggle_bottombar()<CR>
+:js << EOF
+function toggle_bottombar() {
+var bb = document.getElementById('liberator-bottombar');
+if (!bb)
+return;
+bb.style.height = (bb.style.height == '') ? '0px' : '';
+bb.style.overflow = (bb.style.height == '') ? '' : 'hidden';
+}
+EOF
+
 " vim: set ft=vimperator:

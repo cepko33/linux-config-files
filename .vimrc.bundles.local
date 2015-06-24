@@ -1,16 +1,41 @@
-Bundle 'junegunn/goyo.vim'
-Bundle 'scrooloose/nerdtree'
-Bundle 'itchyny/lightline.vim'
-Bundle 'ragtag.vim'
-Bundle 'majutsushi/tagbar'
-Bundle 'greplace.vim'
-Bundle 'mileszs/ack.vim'
-Bundle 'nathanaelkane/vim-indent-guides'
-" Bundle "gilligan/vim-lldb"
-Bundle "Townk/vim-autoclose"
-Bundle "mattn/emmet-vim"
-Bundle "guns/vim-clojure-static"
-Bundle "tpope/vim-fireplace"
-Bundle "tpope/vim-classpath"
-Bundle "airblade/vim-gitgutter"
-Bundle "tkztmk/vim-vala"
+call plug#begin('~/.vim/plugged')
+Plug 'junegunn/goyo.vim'
+Plug 'scrooloose/nerdtree'
+Plug 'bling/vim-airline'
+Plug 'ragtag.vim'
+Plug 'majutsushi/tagbar'
+Plug 'greplace.vim'
+Plug 'mileszs/ack.vim'
+Plug 'nathanaelkane/vim-indent-guides'
+Plug 'Townk/vim-autoclose'
+Plug 'mattn/emmet-vim'
+Plug 'guns/vim-clojure-static'
+Plug 'tpope/vim-fireplace'
+Plug 'tpope/vim-classpath'
+Plug 'airblade/vim-gitgutter'
+Plug 'tkztmk/vim-vala'
+Plug 'shime/vim-livedown'
+Plug 'lukaszkorecki/CoffeeTags'
+Plug 'croaky/vim-colors-github'
+Plug 'danro/rename.vim'
+Plug 'kchmck/vim-coffee-script'
+Plug 'kien/ctrlp.vim'
+Plug 'thoughtbot/vim-rspec'
+Plug 'tpope/vim-cucumber'
+Plug 'tpope/vim-endwise'
+Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-rails'
+Plug 'tpope/vim-surround'
+Plug 'vim-scripts/ctags.vim'
+Plug 'vim-scripts/tComment'
+Plug 'tpope/vim-dispatch'
+Plug 'ryanss/vim-hackernews'
+Plug 'rizzatti/dash.vim'
+Plug 'flazz/vim-colorschemes'
+Plug 'morhetz/gruvbox'
+Plug 'wting/rust.vim'
+call plug#end()
+
+" Plug 'itchyny/lightline.vim'
+" Plug 'Lokaltog/powerline'
+" Plug 'gilligan/vim-lldb'

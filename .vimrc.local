@@ -1,13 +1,20 @@
 set t_Co=256
 
+let $MYVIMRC='~/.vimrc'
+
 " Source the vimrc file after saving it
 if has("autocmd")
   autocmd bufwritepost .vimrc source $MYVIMRC
   autocmd bufwritepost .vimrc.local source $MYVIMRC
   autocmd bufwritepost .vimrc.bundles source $MYVIMRC
-  autocmd bufwritepost .vimrc.bundles BundleInstall
+  autocmd bufwritepost .vimrc.bundles PlugInstall
   autocmd bufwritepost .vimrc.bundles.local source $MYVIMRC
-  autocmd bufwritepost .vimrc.bundles.local BundleInstall
+  autocmd bufwritepost .vimrc.bundles.local PlugInstall
+endif
+
+if has('gui_running')
+      colorscheme gruvbox
+      set background=dark
 endif
 
 " reSource
@@ -38,6 +45,8 @@ nmap <leader>k :cp<CR>
 map <leader>q :Ack "\b<cword>\b"<CR>
 nmap <leader>a :Ack "
 
+map <leader>s :%s/"<cword>"/
+
 " Allow <C-I> for file navigation
 noremap <C-N> <C-A>
 
@@ -60,7 +69,8 @@ set softtabstop=2
 set shiftwidth=2
 set expandtab
 
-set mouse=a
+set mouse+=a
+set ttymouse=xterm2
 
 " whitespace
 set list
@@ -80,7 +90,6 @@ let tlist_vala_settings='c#;d:macro;t:typedef;n:namespace;c:class;'.
   \ 'E:event;g:enum;s:struct;i:interface;'.
   \ 'p:properties;m:method'
 
-let g:tagbar_ctags_bin = "anjuta-tags"
 
 highlight clear SignColumn
 highlight GitGutterAdd ctermfg=green guifg=darkgreen
@@ -91,3 +100,29 @@ highlight GitGutterChangeDelete ctermfg=yellow guifg=darkyellow
 " single line scroll
 :map <ScrollWheelUp> <C-Y>
 :map <ScrollWheelDown> <C-E>
+
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '|'
+let g:airline_left_sep=' '
+let g:airline_right_sep=' '
+
+let g:airline_theme="understated"
+
+map gm :call LivedownPreview()<CR>
+
+imap jk <Esc>
+
+" Quicker window movement
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-h> <C-w>h
+nnoremap <C-l> <C-w>l
+
+" wildignore
+" let g:ctrlp_user_command = ['.git', 'cd %s && git ls-files']
+
+if has('neovim')
+  :tnoremap <Esc> <C-\><C-n>
+end
+
+let g:ctrlp_user_command = ['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
