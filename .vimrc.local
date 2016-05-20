@@ -42,7 +42,7 @@ nmap <leader>j :cn<CR>
 nmap <leader>k :cp<CR>
 
 " Ack search for the word including its boundries
-map <leader>q :Ack "\b<cword>\b"<CR>
+map <leader>q :Ack '\b<cword>\b'<CR>
 nmap <leader>a :Ack "
 
 map <leader>s :%s/"<cword>"/
@@ -60,7 +60,7 @@ nnoremap <Left> :Lcontinue<CR>
 nnoremap <Right> :Lstep<CR>
 nnoremap <Up> :Lup<CR>
 nnoremap <Down> :Ldown<CR>
-let g:ackprg = 'ag --ignore tags --nogroup --nocolor --column'
+let g:ackprg = 'ag -F --ignore tags --nogroup --nocolor --column'
 
 nmap <leader>x :cw<CR>
 
@@ -70,6 +70,7 @@ set shiftwidth=2
 set expandtab
 
 set mouse+=a
+
 set ttymouse=xterm2
 
 " whitespace
@@ -98,8 +99,8 @@ highlight GitGutterDelete ctermfg=red guifg=darkred
 highlight GitGutterChangeDelete ctermfg=yellow guifg=darkyellow
 
 " single line scroll
-:map <ScrollWheelUp> <C-Y>
-:map <ScrollWheelDown> <C-E>
+:map <ScrollWheelUp> 2<C-Y>
+:map <ScrollWheelDown> 2<C-E>
 
 let g:airline#extensions#tabline#left_sep = ' '
 let g:airline#extensions#tabline#left_alt_sep = '|'
@@ -109,8 +110,6 @@ let g:airline_right_sep=' '
 let g:airline_theme="understated"
 
 map gm :call LivedownPreview()<CR>
-
-imap jk <Esc>
 
 " Quicker window movement
 nnoremap <C-j> <C-w>j
@@ -126,3 +125,20 @@ if has('neovim')
 end
 
 let g:ctrlp_user_command = ['.git/', 'git --git-dir=%s/.git ls-files -oc --exclude-standard']
+
+nmap <leader>f :Limelight!!<CR>
+
+" Color name (:help cterm-colors) or ANSI code
+let g:limelight_conceal_ctermfg = 'gray'
+let g:limelight_conceal_ctermfg = 240
+
+" Color name (:help gui-colors) or RGB color
+let g:limelight_conceal_guifg = 'DarkGray'
+let g:limelight_conceal_guifg = '#777777'
+
+" Default: 0.5
+let g:limelight_default_coefficient = 0.7
+
+" Number of preceding/following paragraphs to include (default: 0)
+let g:limelight_paragraph_span = 1
+
